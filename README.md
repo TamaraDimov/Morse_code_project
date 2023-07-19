@@ -102,9 +102,9 @@ If you like this project ⭐️ it
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **Is this project based on a real-life example?**
+- **Can we use for decoding our msg?**
 
-  - Yes,this project is based on a real-life example.
+  - We will include promp very soon.
   <!--
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
