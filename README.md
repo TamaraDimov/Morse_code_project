@@ -28,9 +28,9 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Database</summary>
+  <summary>Ruby</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Ruby</a></li>
+    <!-- <li><a href="https://reactjs.org/">Ruby</a></li> -->
   </ul>
 </details>
 
