@@ -11,9 +11,9 @@ def decode_char(morse_decod)
   morse_code[morse_decod] || ''
 end
 
-# def decode_word(morse_word)
-#   morse_word.split(' ').map { |morse_decod| decode_char(morse_decod) }.join
-# end
+def decode_word(morse_word)
+  morse_word.split(' ').map { |morse_decod| decode_char(morse_decod) }.join
+end
 
 def decode(message)
   words = message.split('   ').map { |morse_word| decode_word(morse_word) }
