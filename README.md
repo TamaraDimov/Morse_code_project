@@ -9,7 +9,11 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
+
   - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -53,6 +57,20 @@ Clone this repository to your desired folder:
 
 `cd my-folder`
 `git clone https://github.com/TamaraDimov/Morse_code_project.git`
+
+### Install
+
+Install this project with:
+
+`cd Morse_code_project`
+
+`bundle install`
+
+### Usage
+
+To run the project, execute the following command in your Terminal:
+
+`ruby decode.rb`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,3 +135,4 @@ If you like this project ⭐️ it
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+````
