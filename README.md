@@ -9,10 +9,10 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
+
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
+
 - [👥 Authors](#authors)
 <!-- - [🔭 Schema Diagram](#Schema-Diagram) -->
 - [🤝 Contributing](#contributing)
@@ -56,44 +56,6 @@ Clone this repository to your desired folder:
 
 `cd my-folder`
 `git clone https://github.com/TamaraDimov/Morse_code_project.git`
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-`psql -U <username> -d <databasename> -f schema.sql`
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-`psql -U <username> -d <databasename> -f queries.sql`
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
