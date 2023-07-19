@@ -9,10 +9,7 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-
 - [👥 Authors](#authors)
 <!-- - [🔭 Schema Diagram](#Schema-Diagram) -->
 - [🤝 Contributing](#contributing)
@@ -33,7 +30,7 @@
 <details>
   <summary>Database</summary>
   <ul>
-    <li><a href="https://reactjs.org/">PostgreSQL</a></li>
+    <li><a href="https://reactjs.org/">Ruby</a></li>
   </ul>
 </details>
 
