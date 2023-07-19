@@ -40,7 +40,7 @@ def decode(message)
     words.join(' ')
 end
 
-message_from_bottle = '- .  -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
+message_from_bottle = '      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 decoded_message = decode(message_from_bottle)
 
 puts decoded_message 
