@@ -11,7 +11,7 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
-<!-- - [🔭 Schema Diagram](#Schema-Diagram) -->
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [❓ FAQ](#faq)
@@ -75,10 +75,11 @@ Clone this repository to your desired folder:
 
 <!-- FUTURE FEATURES -->
 
-<!-- ## 🔭 Schema Diagram <a name="Schema Diagram"></a>
+## 🔭 Future Features <a name="future-features"></a>
 
-![Schema diagram](<schema diagram.png>)
-![RESULT](result.png) -->
+- [ ] **Prompt to add your msg**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
